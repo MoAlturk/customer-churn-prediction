@@ -21,4 +21,4 @@ Customer churn is a critical business metric. This project builds a predictive m
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/customer-churn-prediction.git](https://github.com/YOUR-USERNAME/customer-churn-prediction.git)
+   git clone [https://github.com/MoAlturk/customer-churn-prediction.git](https://github.com/MoAlturk/customer-churn-prediction.git)
